@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 26, 2017, 10:52:47 PM
+    Author     : belli
+*/
+
+body {
+    background-color: lightsteelblue ;
+    
+}
+
+
+.header{
+    font-family: Fjalla One, Garamond, serif;
+    color: white;
+    background-image: url("https://www.freewebheaders.com/wordpress/wp-content/gallery/high-tech-designs/electricity-technology-colorful-background-header.jpg");
+    height: 10%;
+}
+    
+    
+
+h1.header{
+    text-align: center;
+    font-size: 48px;
+}
+
+h2.header{
+    text-align: center;
+    font-size: 32px;
+}
+
+.navcontainer {
+    font-size: 26px;
+    color: #0000cc
+}
+
+#navlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
+#navlist li{
+    font-style: Roboto;
+    float: left;
+}
+
+
+#navlist a {
+    display: inline-block;
+    padding: 8px;
+    background-color: lightsteelblue;
+}
+
+.mainpicture{
+    text-align: center;
+}
